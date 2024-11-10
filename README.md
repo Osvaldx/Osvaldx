@@ -3,13 +3,22 @@
 
 <!--About Me-->
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - :school: I am a `Junior` and study in [UTN FRA](https://utn.edu.ar/es/)
 - :technologist: **Currently learning on** `Backend Development` **&** `Frontend Development`
-- :email: Feel free to **reach me out**  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Osvaldx&amp;color=EA4335&amp;style=flat-square)](mailto:romanonahuel24@gmail.com)<br>
+- :email: Feel free to **reach me out**<br>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaromano)
+[![image](https://img.shields.io/badge/Instagram-d481e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnah.ro)
+[![image](https://img.shields.io/badge/Gmail-c43c37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanonahuel24@gmail.com)
+  
+</div>
 
 ## 🛠️ My Skills
 
