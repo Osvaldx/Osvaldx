@@ -8,7 +8,7 @@
 
 
 - :school: I am a `Junior` and study in [UTN FRA](https://utn.edu.ar/es/)
-- :technologist: **Currently learning on** `Frontend Development` **&** `Backend Development`
+- :technologist: **Currently learning on** `Backend Development` **&** `Frontend Development`
 - :email: Feel free to **reach me out**  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Osvaldx&amp;color=EA4335&amp;style=flat-square)](mailto:romanonahuel24@gmail.com)
 <br>
 
