@@ -14,20 +14,14 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaromano)
-[![image](https://img.shields.io/badge/Instagram-d481e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnah.ro)
+[![image](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-romano-6476a1279/)
+[![image](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/1141746983053303820)
 [![image](https://img.shields.io/badge/Gmail-c43c37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanonahuel24@gmail.com)
   
 </div>
 
 ## 🛠️ My Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-<br>
+<p align="left">
+  <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=python,java,cs,html,css,javascript,mysql,mongodb,vscode,visualstudio,git,github,linux"></a>
+</p>
