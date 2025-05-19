@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-romano-6476a1279/)
+[![image](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaldx)
 [![image](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/1141746983053303820)
 [![image](https://img.shields.io/badge/Gmail-c43c37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanonahuel24@gmail.com)
   
