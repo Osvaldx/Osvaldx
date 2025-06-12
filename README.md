@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Romano <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Back-End developer from Argentina (I love python)</h3>
+<h3 align="center">Backend developer from Argentina (I love python)</h3>
 
 <!--About Me-->
 
