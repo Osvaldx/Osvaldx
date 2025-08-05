@@ -21,23 +21,4 @@
 </div>
 
 ## 🛠️ My Skills
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript" />
-</p>
-
-### 🌐 Web / Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### ⚙️ Tools & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cs,javascript,html,css,nodejs,express,mysql,mongodb,git,github,vscode,visualstudio,linux" />
