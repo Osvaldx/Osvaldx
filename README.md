@@ -22,6 +22,22 @@
 
 ## 🛠️ My Skills
 
-<p align="left">
-  <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=python,java,cs,html,css,javascript,nodejs,express,mysql,mongodb,vscode,visualstudio,git,github,linux"></a>
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript" />
+</p>
+
+### 🌐 Web / Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
 </p>
