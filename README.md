@@ -21,4 +21,4 @@
 </div>
 
 ## 🛠️ My Skills
-<img src="https://skillicons.dev/icons?i=python,spring,java,cs,typescript,javascript,html,css,angular,nodejs,express,mysql,mongodb,supabase,git,github,vscode,visualstudio,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css,angular,nodejs,express,spring,mysql,mongodb,supabase,git,github,vscode,visualstudio,linux" />
