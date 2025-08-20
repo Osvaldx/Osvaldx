@@ -21,4 +21,6 @@
 </div>
 
 ## 🛠️ My Skills
-<img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css,angular,nodejs,express,spring,mysql,mongodb,supabase,git,github,vscode,visualstudio,linux" />
+<p align="left">
+  <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css,angular,nodejs,express,spring,mysql,mongodb,supabase,git,github,vscode,visualstudio,linux"></a>
+</p>
