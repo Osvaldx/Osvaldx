@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- :school: I am a `Junior` and study in [UTN FRA](https://utn.edu.ar/es/)
+- :school: I study at the [UTN FRA](https://utn.edu.ar/es/)
 - :technologist: **Currently learning on** `Backend Development` **&** `Frontend Development`
 - :email: Feel free to **reach me out**<br>
 
