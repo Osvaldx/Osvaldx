@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nahuel Romano <img width="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Backend developer from Argentina (I love python)</h3>
-
+<h3 align="center">Backend developer from Argentina (I love programming)</h3>
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<p><img align="right" height="250" width="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - :school: I am a `Junior` and study in [UTN FRA](https://utn.edu.ar/es/)
 - :technologist: **Currently learning on** `Backend Development` **&** `Frontend Development`
@@ -21,6 +18,30 @@
 </div>
 
 ## 🛠️ My Skills
-<p align="left">
-  <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css,angular,nodejs,express,spring,mysql,mongodb,supabase,git,github,vscode,visualstudio,linux"></a>
-</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐍 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚒️ Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+    </td>
+  </tr>
+</table>
+
+</div>
