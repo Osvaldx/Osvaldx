@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer from Argentina (I love programming)</h3>
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://media.tenor.com/V6eqjObT7DQAAAAj/hola.gif" width = 30px></picture> About me
 
 - :school: I study at the [UTN FRA](https://utn.edu.ar/es/)
 - :technologist: **Currently learning on** `Backend Development` **&** `Frontend Development`
