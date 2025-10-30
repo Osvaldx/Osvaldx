@@ -25,21 +25,21 @@
   <tr>
     <td align="center" width="50%">
       <h3>🐍 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css" />
+      <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,html,css" />
     </td>
     <td align="center" width="50%">
       <h3>📚 Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring,tailwind" />
+      <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,express,spring,tailwind" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+      <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
     </td>
     <td align="center" width="50%">
       <h3>⚒️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+      <a href="https://github.com/osvaldx"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
     </td>
   </tr>
 </table>
